@@ -9,4 +9,5 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 ## Feedback
 - This was a fun project. It took me about 8 hours to complete.
 - I learned that I should read the project first because it would have saved me from all the curve manipulation I had to do for the globe.
+- This project was built on IOS.
 
